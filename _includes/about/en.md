@@ -11,5 +11,6 @@ Hey, I am Taco, I am a student of [NPTU](https://mis.nptu.edu.tw/), I think I am
 -  創新服務競賽初賽
 -  商品創意解說競賽 第一名
 -  大專生計畫
--  金盾未知
 -  化學助教
+-  小教英文助教
+-  金盾未知
