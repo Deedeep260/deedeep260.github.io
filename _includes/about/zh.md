@@ -1,4 +1,4 @@
-Hey，現在是一名[屏東大學](https://ncyuweb.ncyu.edu.tw/csie/)的學生，如果以機器碼描述我的人生大概是
+Hey，現在是一名[屏大](https://mis.nptu.edu.tw/)的學生，如果以機器碼描述我的人生大概是
 ```
 \x90\x90\x90\x90\x90\x90\x90\x90\x90
 ```
