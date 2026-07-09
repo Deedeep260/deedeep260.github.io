@@ -3,7 +3,7 @@ Hey, I am Taco, I am a student of [NPTU](https://mis.nptu.edu.tw/), I think I am
 ## Experiment
 -  黑客松 第三名
 -  書卷獎
--  APCS 4/2
+-  APCS 觀念 4 實作 2
 -  CPE (2024/3) 三題
 -  CPE (2024/5) 三題
 -  NCPC 入選決賽/第一名
