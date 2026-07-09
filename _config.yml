@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: kevin0920911@gmail.com
 description: "這裡是聖凱的個人部落格 | 程式不會寫，真的是眉毛不夠濃"
 keyword: "聖凱, Hsu, 資工系, jyu_911, @jyu_911, C++, Python"
-url: "https://kevin0920911.github.io/" # your host, for absolute URL
+url: "https://dell120711.github.io/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -15,9 +15,9 @@ future: true
 RSS: false
 weibo_username: false
 zhihu_username: false
-github_username: kevin0920911
-facebook_username:  kevin.hsu.3192
-linkedin_username:  聖凱-徐-59363b277
+github_username: Dell120711
+facebook_username:  Dell120711.3192
+linkedin_username:  永宸-戴-59363b277
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
